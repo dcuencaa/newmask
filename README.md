@@ -1,7 +1,5 @@
-# NewMask (Hosts Manager)
-
+## NewMask (Hosts Manager)
 NewMask mimics the core functionality of [Gas Mask](https://github.com/2ndalpha/gasmask), for edit, and switch between multiple `/etc/hosts` file profiles.
-
 
 ## Prerequisites
 
